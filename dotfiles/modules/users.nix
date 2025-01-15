@@ -3,7 +3,7 @@
     mutableUsers = false;
     users.kstnbtw = {
       description = "knstntn";
-      password = "asdasd";
+      password = "secret";
       isNormalUser = true;
       extraGroups = [ "wheel" "docker" ];
       createHome = true;
